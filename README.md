@@ -26,3 +26,17 @@ Keywords: "reference, profile"
 
 Understand why reference material is important in animation.
 Be comfortable with how to get your reference material
+
+### 4 Quick Editing A Video In Blender
+**In this video (objectives)…**
+
+1. Import a Video that is too long into Blender
+2. Cut the Video to a suitable size
+3. Export to a new video file
+4. Adjust memory allocation for video information
+
+**After watching (learning outcomes)…**
+
+Be able to cut out a section of video the appropriate length
+Export the edited video.
+Understand there are better tools, but this will do.

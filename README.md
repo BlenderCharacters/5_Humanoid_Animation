@@ -13,3 +13,16 @@ Time to put those animation principals to the test and begin our journey of huma
 **After watching (learning outcomes)…**
 
 You will understand the purpose of the section, it's objectives and what you are about to do to accomplish them.
+
+### 3 Remember Your Reference Material
+**In this video (objectives)…**
+
+1. Why reference material is important
+2. Look at various ways of obtaining reference material
+
+Keywords: "reference, profile"
+
+**After watching (learning outcomes)…**
+
+Understand why reference material is important in animation.
+Be comfortable with how to get your reference material

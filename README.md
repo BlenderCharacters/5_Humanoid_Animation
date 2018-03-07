@@ -40,3 +40,19 @@ Be comfortable with how to get your reference material
 Be able to cut out a section of video the appropriate length
 Export the edited video.
 Understand there are better tools, but this will do.
+
+### 5 Using Reference Video In Blender
+**In this video (objectives)…**
+
+1. How to import a movie file into Blender
+2. Reminder about memory limit
+3. Watching playback in the Movie Editor
+4. Watching playback in the UV/Image Editor
+5. Watching playback in the 3D View with Background Images
+6. Watching playback in the 3D View on Geometry in Cycles and Blender Render
+
+**After watching (learning outcomes)…**
+
+Be able to import a video file into Blender
+Use Blender to View the video file in multiple different ways
+Be comfortable with basic scrubbing through video in Blender

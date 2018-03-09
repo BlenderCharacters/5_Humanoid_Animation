@@ -70,6 +70,20 @@ Be able to break down other similar poses like running
 Be comfortable with the 4 main positions in a walk
 
 ### 7 Meaningful Markers
+**In this video (objectives)…**
+
+1. Add markers to our timeline for reference
+2. For a regular animation like walking we will have regularly spaced markers
+3. General scaling timeline, dope sheet and graph editor
+4. Manipulating our meaningful markers
+
+**After watching (learning outcomes)…**
+
+Add and rename markers to the timeline
+Understand why this is a good practice prior to animating
+Comfortable with editing your markers and navigating the timeline, dope sheet and graph editor
+
+
 ### Auto Keying Our Animation
 ### Focusing On The Main Action
 ### Copying A Pose

@@ -83,8 +83,7 @@ Add and rename markers to the timeline
 Understand why this is a good practice prior to animating
 Comfortable with editing your markers and navigating the timeline, dope sheet and graph editor
 
-
-### Auto Keying Our Animation
+### 8 Auto Keying Poses
 **In this video (objectives)…**
 
 1. Turning On Auto Keying
@@ -94,10 +93,19 @@ Comfortable with editing your markers and navigating the timeline, dope sheet an
 **After watching (learning outcomes)…**
 
 Be able to confidently use auto keying to quickly modify poses
-Understand it's limitations and its liabilities 
+Understand it's limitations and its liabilities
 
-### Focusing On The Main Action
-### Copying and mirroring a pose
-### Cleaning up accidently keyed movements
+### 9 Copying And Mirroring Poses
+**In this video (objectives)…**
+
+1. Learn how to copy a pose
+2. Learn how to paste that pose as a new keyframe
+3. Learn how to paste a mirrored version of that pose
+
+**After watching (learning outcomes)…**
+
+Students will be able to rapidly assemble their basic animation
+
+### 10 Cleaning up accidently keyed movements
 ### Secondary actions
 ### Overlapping actions

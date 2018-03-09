@@ -56,3 +56,22 @@ Understand there are better tools, but this will do.
 Be able to import a video file into Blender
 Use Blender to View the video file in multiple different ways
 Be comfortable with basic scrubbing through video in Blender
+
+### 6 Analysing Body Movement: Walking
+**In this video (objectives)…**
+
+1. Break down the bodies movements during a walk
+2. Focus on the key positions the body will be in during the animation
+3. Avoid beginner mistakes
+
+**After watching (learning outcomes)…**
+
+Be able to break down other similar poses like running
+Be comfortable with the 4 main positions in a walk
+
+### 7 Meaningful Markers
+### Auto Keying Our Animation
+### Focusing On The Main Action
+### Copying A Pose
+### Mirroring A Pose
+### Secondary Actions

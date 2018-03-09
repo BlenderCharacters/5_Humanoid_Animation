@@ -85,7 +85,19 @@ Comfortable with editing your markers and navigating the timeline, dope sheet an
 
 
 ### Auto Keying Our Animation
+**In this video (objectives)…**
+
+1. Turning On Auto Keying
+2. Understanding what will be updating
+3. Remembering to turn it off when not necessary
+
+**After watching (learning outcomes)…**
+
+Be able to confidently use auto keying to quickly modify poses
+Understand it's limitations and its liabilities 
+
 ### Focusing On The Main Action
-### Copying A Pose
-### Mirroring A Pose
-### Secondary Actions
+### Copying and mirroring a pose
+### Cleaning up accidently keyed movements
+### Secondary actions
+### Overlapping actions

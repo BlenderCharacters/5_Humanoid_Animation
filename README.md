@@ -106,6 +106,16 @@ Understand it's limitations and its liabilities
 
 Students will be able to rapidly assemble their basic animation
 
-### 10 Cleaning up accidently keyed movements
+### 10 Adding Overlapping Action
+**In this video (objectives)…**
+
+1. Look at the hips of our character
+2. How we can use them to create a more convincing walk
+
+**After watching (learning outcomes)…**
+
+Add convincing overlapping action to our walk cycle
+
 ### Secondary actions
-### Overlapping actions
+
+###  Cleaning up accidently keyed movements

@@ -128,5 +128,13 @@ Add convincing overlapping action to our walk cycle
 Confidently identify unnecessary keysframes and remove them
 Refine your animation by using the graph editor
 
+### 12 Secondary Action For The Walk
+**In this video (objectives)…**
 
-### Secondary actions
+1. Look at secondary actions
+2. Arms don't currently move naturally
+3. Consider the various ways in which the arms can move
+
+**After watching (learning outcomes)…**
+
+See how adding a secondary action to an animation can complement the main animation

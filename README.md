@@ -116,6 +116,17 @@ Students will be able to rapidly assemble their basic animation
 
 Add convincing overlapping action to our walk cycle
 
-### Secondary actions
+### 11 Refining Our Animation
+**In this video (objectives)…**
 
-###  Cleaning up accidently keyed movements
+1. Clean up our keyframes
+2. Look closely at interpolation between frames
+3. Use the graph editor to refine movements
+
+**After watching (learning outcomes)…**
+
+Confidently identify unnecessary keysframes and remove them
+Refine your animation by using the graph editor
+
+
+### Secondary actions

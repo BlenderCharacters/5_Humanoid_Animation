@@ -138,3 +138,9 @@ Refine your animation by using the graph editor
 **After watching (learning outcomes)…**
 
 See how adding a secondary action to an animation can complement the main animation
+
+### 13 Kevin Parry's 100 Walks
++ Bonus Reference Material
++ Inspiration
+
+https://www.youtube.com/user/kevinparry
